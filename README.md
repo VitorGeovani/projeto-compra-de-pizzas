@@ -1,6 +1,6 @@
 <h1 align="center">Projeto de Compra de Pizzas :file_folder:</h1>
 
-<h3 align="center">:bookmark_tabs: Criando um sistema de compra de pizzas, no curso {Parças} Developers School (Projeto Bolsa Tech).<</h3>
+<h3 align="center">:bookmark_tabs: Criando um sistema de compra de pizzas, no curso {Parças} Developers School (Projeto Bolsa Tech).</h3>
 
 <div align="center">
  <img src="https://img.shields.io/badge/-HTML5-FFF?logo=html5&logoColor=orange&style=flat" />
