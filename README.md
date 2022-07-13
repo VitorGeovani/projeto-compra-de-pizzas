@@ -14,7 +14,7 @@
  <br>
  
  ## <a name="SobreoProjeto"></a>:information_source: Especificações do Projeto
- Este projeto foi realizado por meio do curso de Automação Expert | Full Stack Development-QA, oferecido pela <b>{Parças} Developers School</b> e o <b>Projeto Bolsa Tech</b>. durante este módulo do curso foi passado os principais conceitos do <b>JavaScript</b>, bem como sua aplicação prática e manipulação da <b>DOM</b>.
+ Este projeto foi realizado por meio do curso de Automação Expert | Full Stack Development-QA, oferecido pela <b>{Parças} Developers School</b> e o <b>Projeto Bolsa Tech</b>. Durante este módulo do curso foi passado os principais conceitos do <b>JavaScript</b>, bem como sua aplicação prática e manipulação do <b>DOM</b>.
  
  <br>
  
@@ -52,13 +52,13 @@
 
 ## <a name="ImagensDoProjeto"></a>🖥 Preview do projeto
 * Página <b>Home</b> (Desktop)
-<img src="" width="800px" />
+<img src="https://github.com/VitorGeovani/projeto-compra-de-pizzas/blob/master/layout.png" width="800px" />
 
 * Página <b>Home</b> (Mobile)
-<img src="" width="300px" />
+<img src="https://user-images.githubusercontent.com/71882193/178716371-761fc896-b5e8-41f6-a38e-869044e00377.png" width="300px" />
 
 ## ⌨ Como executar o projeto
 
-Baixe o arquivo .ZIP do projeto e após descompactar abra o arquivo index.html
+Baixe o arquivo <b>.ZIP</b> do projeto e após descompactar abra o arquivo <b>index.html</b>
 
 ---
